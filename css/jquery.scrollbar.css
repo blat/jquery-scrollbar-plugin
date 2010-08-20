@@ -1,0 +1,23 @@
+.scrollbar {
+    height: 400px;
+}
+
+.scrollbar-up,
+.scrollbar-down {
+    width: 100%;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.scrollbar-down {
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.scrollbar-up img, 
+.scrollbar-down img {
+    border: none;
+}
+

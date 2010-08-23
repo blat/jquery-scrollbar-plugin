@@ -4,7 +4,7 @@ This jQuery plugin allows you to customize vertical scrollbar.
 
 demo
 -----------------
-*   [example](http://blat.github.com/jquery-scrollbar-plugin/demo.html)
+*   [example](http://www.frederic-blatiere.com/atelier)
 
 setup
 ------------------
